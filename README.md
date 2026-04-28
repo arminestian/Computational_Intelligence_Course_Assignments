@@ -1,0 +1,2 @@
+# Computational_Intelligence_Course_Assignments
+This repository contains my implementations for Computational Intelligence course assignments
